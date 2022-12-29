@@ -62,7 +62,7 @@ export class UserDetailsComponent implements OnInit{
     console.log(this.taskObj);
     this.service.updateUser(this.taskObj).subscribe(res => {
       alert('updated')
-      this.route.navigateByUrl('user-list')
+      this.route.navigateByUrl('userlist')
     })
   }
 }

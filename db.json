@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "12",
+      "name": "devika",
+      "email": "devikavpillai16@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "33",
+      "name": "Deepti",
+      "email": "deepti@gmail.com",
+      "status": "active"
+    }
+  ]
+}

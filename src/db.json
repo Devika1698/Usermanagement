@@ -1,9 +1,0 @@
-{
-    "users":[
-        { "id": 1, 
-        "name": "devika", 
-        "email": "admin@demoapp.com",
-        "active": "1", 
-        "password": "devu" }
-    ]
-}
